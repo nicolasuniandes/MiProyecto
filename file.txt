@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Este es un archivo modificado.
 Este es un conflicto.
+=======
+Este es un archivo modificado.
+>>>>>>> 6ad0c6139b8ac2c90cd995551f91b20481f84f07
